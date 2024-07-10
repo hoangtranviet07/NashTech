@@ -1,0 +1,14 @@
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\bin\Debug\net8.0\Day_1.exe
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\bin\Debug\net8.0\Day_1.dll
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfoInputs.cache
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfo.cs
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.csproj.CoreCompileInputs.cache
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.dll
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\refint\Day_1.dll
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.pdb
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\bin\Debug\net8.0\Day_1.deps.json
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\bin\Debug\net8.0\Day_1.runtimeconfig.json
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\bin\Debug\net8.0\Day_1.pdb
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\Day_1.genruntimeconfig.cache
+C:\Users\hoang\Documents\NashTech_Intern\Day_1\obj\Debug\net8.0\ref\Day_1.dll
